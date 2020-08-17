@@ -1,4 +1,5 @@
 #!/bin/bash
+
 .echoer() {
   echo "$@"
 }
