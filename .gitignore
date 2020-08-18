@@ -1,2 +1,5 @@
 .idea/
 *.iml
+
+# Uncomment if you do not want to store backups
+# plugins_data/

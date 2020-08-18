@@ -1,5 +1,6 @@
 #!/bin/bash
 
 .symlink() {
-  echo "symlink"
+  ...
 }
+/etc.network---common-interfaces.dots.00.bkp
